@@ -1,5 +1,6 @@
 body {
 	background-image: url("https://www.fix.com/assets/content/18940/talkin-tacos-header.png");
+	background-repeat: no-repeat;
 	font-family: cursive;
 	
 }
@@ -27,10 +28,20 @@ li {
 	margin: 0 auto;
 	width: 250px;
 }
-.Input p {
+
+.Input {
 	display: inline-block !important;
 	font-size: 1.5em;
+	width: 800px;
+	vertical-align: middle;
+	text-align: center;
 }
 .allitems .strike {
+	text-decoration: line-through;
+}
+.checked {
+	vertical-align: middle;
+}
+li.linethrough {
 	text-decoration: line-through;
 }
