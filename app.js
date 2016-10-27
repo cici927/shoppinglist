@@ -1,5 +1,18 @@
 $( document ).ready(function() {
-	var arr = []
+	var arr = ['Taco Shells','Ground Beef']
+
+//Text input to search array for strings that match
+
+//Listen for even on search button
+
+//Create a variable that stores data in input (get value)
+
+//Loop through array and see if item exists 
+
+//If it exists, I want to show it on page
+
+//Alert: item does not exist (if item isn't there)
+
 
 
 	$(".add-food").click(function(e) {

@@ -1,0 +1,11 @@
+Add click handler
+	Collect input value
+	Take that info and append to DOM
+
+Second click handler (delete)
+	Check which item has been selected for deletion
+	Remove from DOM
+
+Third click handler
+	For Item picked up (strike through)
+	
